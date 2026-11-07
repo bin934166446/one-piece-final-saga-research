@@ -1,0 +1,37 @@
+name: Import research archive
+on:
+  push:
+    paths:
+      - 'archive/research-data.xz'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Extract research files
+        run: |
+          python3 - <<'PY'
+          import lzma, json, pathlib
+          archive = pathlib.Path('archive/research-data.xz')
+          files = json.loads(lzma.decompress(archive.read_bytes()).decode('utf-8'))
+          for name, body in files.items():
+              path = pathlib.Path(name)
+              if path.is_absolute() or '..' in path.parts: raise ValueError('invalid path')
+              path.parent.mkdir(parents=True, exist_ok=True)
+              path.write_text(body, encoding='utf-8')
+          print(f'Extracted {len(files)} research files')
+          PY
+      - name: Commit extracted files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md MANIFEST.json analysis/ discussions/ meta/ research/
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: import full One Piece theory and discussion archive"
+            git push
+          fi
