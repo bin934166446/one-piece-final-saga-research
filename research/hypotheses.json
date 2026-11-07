@@ -1,0 +1,277 @@
+{
+  "schema": "one-piece-hypothesis-register-v1",
+  "as_of": "2026-11-07",
+  "notice": "Discussion archive, not independently validated canon or genuine future prediction timestamp.",
+  "hypotheses": [
+    {
+      "id": "H-D-01",
+      "proposed_by": "用户",
+      "hypothesis": "D意志的主要方向是自由、反抗压迫、代代传承",
+      "current_evidence_grade": "C",
+      "support_or_question": "路飞罗杰乔伊波伊主题一致，但黑胡子洛克斯例外",
+      "future_validation": "D起源的明确释义",
+      "verified": false
+    },
+    {
+      "id": "H-D-02",
+      "proposed_by": "助手",
+      "hypothesis": "D最初可能是古代联盟／共同历史身份，而非统一道德立场",
+      "current_evidence_grade": "C",
+      "support_or_question": "莉莉、黑胡子、卡普等行动差异",
+      "future_validation": "D字面与800年前政治身份",
+      "verified": false
+    },
+    {
+      "id": "H-HIST-01",
+      "proposed_by": "用户",
+      "hypothesis": "乔伊波伊来自高度发达巨大王国，传播自由和技术",
+      "current_evidence_grade": "C/D",
+      "support_or_question": "古代技术很强，但具体旅程未证",
+      "future_validation": "乔伊波伊生平回忆",
+      "verified": false
+    },
+    {
+      "id": "H-HIST-02",
+      "proposed_by": "用户",
+      "hypothesis": "乔伊波伊与伊姆曾是朋友，后来理念分裂",
+      "current_evidence_grade": "D",
+      "support_or_question": "暂无直接互动回忆",
+      "future_validation": "800年前二人关系",
+      "verified": false
+    },
+    {
+      "id": "H-HIST-03",
+      "proposed_by": "用户",
+      "hypothesis": "乔伊波伊更强，却因阴谋、伙伴控制或背刺战败",
+      "current_evidence_grade": "C/D",
+      "support_or_question": "现代黑转机制、象主罪、艾米特道歉",
+      "future_validation": "古代大战关键转折回忆",
+      "verified": false
+    },
+    {
+      "id": "H-HIST-04",
+      "proposed_by": "用户",
+      "hypothesis": "乔伊波伊战败后仍存活并布置遗产",
+      "current_evidence_grade": "C",
+      "support_or_question": "艾米特霸气、拉夫德鲁、诺亚",
+      "future_validation": "具体遗产布置日期",
+      "verified": false
+    },
+    {
+      "id": "H-LILY-01",
+      "proposed_by": "用户",
+      "hypothesis": "莉莉逃离旧统治，保护历史，曾到艾尔巴夫",
+      "current_evidence_grade": "C",
+      "support_or_question": "历史正文、艾尔巴夫线索",
+      "future_validation": "留下的物件与去向",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-01",
+      "proposed_by": "用户",
+      "hypothesis": "伊姆先得不老手术，再以自身生命为代价自我契约强化",
+      "current_evidence_grade": "C/D",
+      "support_or_question": "不老术、伊万科夫猜测、契约成本、离圣地限制",
+      "future_validation": "自我签约原画面、代价量化",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-02",
+      "proposed_by": "用户",
+      "hypothesis": "伊姆契约代价会随获得能力增强而增高，并可能致死",
+      "current_evidence_grade": "C/D",
+      "support_or_question": "哈拉尔德死亡后伊姆痛苦；外出危机",
+      "future_validation": "反噬的具体生命机制",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-03",
+      "proposed_by": "用户",
+      "hypothesis": "伊姆被自身果实意志逐渐侵蚀甚至夺舍",
+      "current_evidence_grade": "D",
+      "support_or_question": "动物系意志与伊姆能力主题，但果实类别未知",
+      "future_validation": "伊姆双重人格或原始人格揭晓",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-04",
+      "proposed_by": "助手",
+      "hypothesis": "伊姆玛丽乔亚可能有生命恢复／维持条件",
+      "current_evidence_grade": "C",
+      "support_or_question": "离圣地虚弱，具体成因未知",
+      "future_validation": "返回圣地是否立即恢复",
+      "verified": false
+    },
+    {
+      "id": "H-FRUIT-01",
+      "proposed_by": "用户",
+      "hypothesis": "恶魔果实由原始契约体系制造，统一失水弱点是契约代价",
+      "current_evidence_grade": "D",
+      "support_or_question": "能力形式不同却有共同弱点，伊姆果实名异常",
+      "future_validation": "制造果实的明确过程",
+      "verified": false
+    },
+    {
+      "id": "H-FRUIT-02",
+      "proposed_by": "助手",
+      "hypothesis": "古代科技或愿望进化理论可替代统一契约说",
+      "current_evidence_grade": "C",
+      "support_or_question": "贝加庞克对愿望的假说",
+      "future_validation": "果实起源正式披露",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-05",
+      "proposed_by": "用户",
+      "hypothesis": "伊姆多形态、多个旧王武器可能涉及夺舍旧王",
+      "current_evidence_grade": "D",
+      "support_or_question": "多种形态／兵器；旧王誓约有替代解释",
+      "future_validation": "多武器的来源和人体关系",
+      "verified": false
+    },
+    {
+      "id": "H-IMU-06",
+      "proposed_by": "用户",
+      "hypothesis": "伊姆恐惧乔伊波伊霸气可由历史心理阴影解释，无须新克制法则",
+      "current_evidence_grade": "C",
+      "support_or_question": "800年对手记忆、霸气实际压迫",
+      "future_validation": "伊姆真实过去",
+      "verified": false
+    },
+    {
+      "id": "H-ONE-01",
+      "proposed_by": "双方",
+      "hypothesis": "One Piece包含实体宝藏＋历史＋未来行动价值",
+      "current_evidence_grade": "C",
+      "support_or_question": "罗杰来早、乔伊波伊宝藏、取得者决定世界",
+      "future_validation": "实体物品形态及使用条件",
+      "verified": false
+    },
+    {
+      "id": "H-ONE-02",
+      "proposed_by": "用户",
+      "hypothesis": "只靠历史真相不足以解释各方争夺",
+      "current_evidence_grade": "C",
+      "support_or_question": "各势力目标不同，知识可传播",
+      "future_validation": "宝藏独占性",
+      "verified": false
+    },
+    {
+      "id": "H-ONE-03",
+      "proposed_by": "助手",
+      "hypothesis": "罗杰发笑是伟大愿望与“来早了”的荒诞反差",
+      "current_evidence_grade": "D",
+      "support_or_question": "罗杰反应与时代条件",
+      "future_validation": "乔伊波伊故事全文",
+      "verified": false
+    },
+    {
+      "id": "H-ROUTE-01",
+      "proposed_by": "用户",
+      "hypothesis": "艾尔巴夫后可能直接冲最终之岛",
+      "current_evidence_grade": "C",
+      "support_or_question": "主角航线持续向前",
+      "future_validation": "第四路标在哪里取得",
+      "verified": false
+    },
+    {
+      "id": "H-ROUTE-02",
+      "proposed_by": "助手",
+      "hypothesis": "艾尔巴夫后通过海上争夺获得第四路标",
+      "current_evidence_grade": "C",
+      "support_or_question": "烧伤男、四皇竞争",
+      "future_validation": "下一站航路明示",
+      "verified": false
+    },
+    {
+      "id": "H-SHANKS-01",
+      "proposed_by": "用户",
+      "hypothesis": "香克斯可能成为路飞被背刺的关键",
+      "current_evidence_grade": "D",
+      "support_or_question": "香克斯隐情与旧契约，背叛未证",
+      "future_validation": "香克斯最终动机、契约是否有效",
+      "verified": false
+    },
+    {
+      "id": "H-SHANKS-02",
+      "proposed_by": "助手",
+      "hypothesis": "香克斯更可能是竞争者／误解方而非主动伊姆卧底",
+      "current_evidence_grade": "C",
+      "support_or_question": "参与One Piece争夺；与伊姆历史有冲突",
+      "future_validation": "路飞香克斯见面",
+      "verified": false
+    },
+    {
+      "id": "H-BB-01",
+      "proposed_by": "用户",
+      "hypothesis": "黑胡子可能在伊姆战后夺走残余世界权力",
+      "current_evidence_grade": "C",
+      "support_or_question": "战略机会主义、瞬移及情报筹码",
+      "future_validation": "黑胡子行动时间与目标",
+      "verified": false
+    },
+    {
+      "id": "H-BB-02",
+      "proposed_by": "助手",
+      "hypothesis": "路飞最后可能既反对伊姆也反对黑胡子夺权",
+      "current_evidence_grade": "C",
+      "support_or_question": "自由与世界之王的理念冲突",
+      "future_validation": "终局BOSS排序",
+      "verified": false
+    },
+    {
+      "id": "H-WORLD-01",
+      "proposed_by": "双方",
+      "hypothesis": "世界地理可能在最终篇发生重大变化",
+      "current_evidence_grade": "C",
+      "support_or_question": "海平面+200米、鱼人岛、All Blue、桥梁",
+      "future_validation": "地理变化的实际发生",
+      "verified": false
+    },
+    {
+      "id": "H-WORLD-02",
+      "proposed_by": "助手",
+      "hypothesis": "诺亚和白星将参与鱼人岛居民迁移",
+      "current_evidence_grade": "C",
+      "support_or_question": "预言、诺亚、海王类、波塞冬",
+      "future_validation": "诺亚使用情节",
+      "verified": false
+    },
+    {
+      "id": "H-WORLD-03",
+      "proposed_by": "用户",
+      "hypothesis": "巴基四分五裂果实或与地理变化有关",
+      "current_evidence_grade": "D",
+      "support_or_question": "仅能力名称及觉醒可能性",
+      "future_validation": "巴基能力能否影响物体／地形",
+      "verified": false
+    },
+    {
+      "id": "H-ZORO-01",
+      "proposed_by": "用户",
+      "hypothesis": "鹰眼被黑转后与索隆决战",
+      "current_evidence_grade": "D",
+      "support_or_question": "契约可使强者失控",
+      "future_validation": "鹰眼真实立场与对决状态",
+      "verified": false
+    },
+    {
+      "id": "H-ZORO-02",
+      "proposed_by": "助手",
+      "hypothesis": "索隆与清醒鹰眼正式对决更贴合原初梦想",
+      "current_evidence_grade": "C",
+      "support_or_question": "师徒对决长期承诺",
+      "future_validation": "最终剑豪赛",
+      "verified": false
+    },
+    {
+      "id": "H-FINAL-01",
+      "proposed_by": "双方",
+      "hypothesis": "海贼王争夺与世界政府战争两条主线交织",
+      "current_evidence_grade": "B/C",
+      "support_or_question": "各大势力独立目标、白胡子预言",
+      "future_validation": "两线何时汇合",
+      "verified": false
+    }
+  ]
+}
